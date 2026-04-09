@@ -19,6 +19,13 @@ mkdir -p .claude/skills
 git clone https://github.com/jiangling891208-hue/BP.Skill .claude/skills/bp-skill
 ```
 
+## 更新
+
+```bash
+cd .claude/skills/bp-skill
+git pull
+```
+
 ---
 
 ## 使用
